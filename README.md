@@ -6,7 +6,11 @@
 
 #### 잘 부탁드립니다.
 
-#### 관심 분야
+#### 배우고 있는 것
+![Python](https://img.shields.io/badge/Python-red?logo=Python&logoColor=white&color=red)
+
+
+#### 배우고 싶은 것
 ![C#](https://img.shields.io/badge/C%23-green?logo=C%23&logoColor=white&color=green)
 ![C++](https://img.shields.io/badge/C%2B%2B-green?logo=C%2B%2B&logoColor=white&color=brightgreen)
 
