@@ -1,4 +1,4 @@
-{: style="text-align: center;"}
+<div style="text-align: center;">
 
 #### 안녕하세요.
 
