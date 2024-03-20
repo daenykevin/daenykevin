@@ -9,8 +9,5 @@
 #### 관심 분야
 
 #### 좋아하는 것
-<div>
 ![League of Legends](https://img.shields.io/badge/League%20of%20Legneds-lightgrey?logo=League%20of%20Legends&logoColor=white&color=lightgrey)
-</div>
-<div>
 ![Roblox](https://img.shields.io/badge/Roblox-red?logo=Roblox&logoColor=red&color=black)
