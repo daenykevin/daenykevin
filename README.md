@@ -1,4 +1,4 @@
-style="text-align: center;"
+<style="text-align: center;">
 
 #### 안녕하세요.
 
@@ -8,4 +8,3 @@ style="text-align: center;"
 
 #### 관심 분야
 
-<img src>
