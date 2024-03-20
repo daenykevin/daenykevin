@@ -7,8 +7,7 @@
 #### 잘 부탁드립니다.
 
 #### 동아리 활동
--GDSC Hongik (2024.3.19~)
--P.C.R.C. (2024.3.4~)
+-GDSC Hongik (2024.3.19~)  -P.C.R.C. (2024.3.4~)
 
 #### 배우고 있는 것
 ![Python](https://img.shields.io/badge/Python-red?logo=Python&logoColor=white&color=red)
