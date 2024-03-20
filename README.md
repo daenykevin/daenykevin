@@ -17,3 +17,5 @@
 ![Roblox](https://img.shields.io/badge/Roblox-red?logo=Roblox&logoColor=red&color=black)
 ![SCP: Secret Laboratory](https://img.shields.io/badge/SCP%3A%20Secret%20Laboratory-lightgrey?logo=SCP%20Foundation&logoColor=white&color=black)
 
+
+![daenykevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=daenykevin&show_icons=true&theme=dracula)
